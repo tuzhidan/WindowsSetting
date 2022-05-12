@@ -1,0 +1,16 @@
+D:\mirror-work\WindowsSetting\VirtualDesk\bin\Release\VirtualDesk.exe.config
+D:\mirror-work\WindowsSetting\VirtualDesk\bin\Release\VirtualDesk.exe
+D:\mirror-work\WindowsSetting\VirtualDesk\bin\Release\VirtualDesk.pdb
+D:\mirror-work\WindowsSetting\VirtualDesk\bin\Release\VirtualDesktop.dll
+D:\mirror-work\WindowsSetting\VirtualDesk\bin\Release\VirtualDesktop.xml
+D:\mirror-work\WindowsSetting\VirtualDesk\obj\Release\VirtualDesk.csproj.AssemblyReference.cache
+D:\mirror-work\WindowsSetting\VirtualDesk\obj\Release\VirtualDesk.csproj.CoreCompileInputs.cache
+D:\mirror-work\WindowsSetting\VirtualDesk\obj\Release\VirtualDesk.exe
+D:\mirror-work\WindowsSetting\VirtualDesk\obj\Release\VirtualDesk.pdb
+D:\mirror-work\WindowsSetting\x64\Release\VirtualDesk.exe.config
+D:\mirror-work\WindowsSetting\x64\Release\VirtualDesk.exe
+D:\mirror-work\WindowsSetting\x64\Release\VirtualDesk.pdb
+D:\mirror-work\WindowsSetting\bin\Release\VirtualDesk.exe.config
+D:\mirror-work\WindowsSetting\bin\Release\VirtualDesk.exe
+D:\mirror-work\WindowsSetting\bin\Release\VirtualDesk.pdb
+D:\mirror-work\WindowsSetting\VirtualDesk\obj\Release\VirtualDesk.csproj.CopyComplete
